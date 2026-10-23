@@ -1,0 +1,124 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://BGO7wMsQV0SL9Ay:M7mPMVkk6crXnK6@localhost:15236/storage/emulated/0/APP%20DK%20PAINEL/APPDKXIT.html
+Subject: DK CHEATS VIP
+Date: Fri, 23 Oct 2026 01:48:40 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bjM4qECvOEfOTczh1JxhKVxhwSewVx70m1NwFAfMYH----"
+
+
+------MultipartBoundary--bjM4qECvOEfOTczh1JxhKVxhwSewVx70m1NwFAfMYH----
+Content-Type: text/html
+Content-ID: <frame-F3BF9A410D9D366A273D0FDF0EAE5B2B@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://BGO7wMsQV0SL9Ay:M7mPMVkk6crXnK6@localhost:15236/storage/emulated/0/APP%20DK%20PAINEL/APPDKXIT.html
+
+<!DOCTYPE html><html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-430632f0-2baf-4dec-9f8b-7ee18a487d3f@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#120202">
+<title>DK CHEATS VIP</title>
+
+</head>
+<body>
+<main class="panel">
+  <div class="logo">DK</div>
+  <h1>DK CHEATS</h1>
+  <p class="subtitle">PAINEL • ACESSO POR KEY</p>
+
+  <!-- Tela de Login -->
+  <section id="loginScreen">
+    <label for="keyInput">DIGITE SUA KEY</label>
+    <input id="keyInput" type="password" placeholder="Digite a key..." autocomplete="off">
+    <button id="loginBtn" type="button">FAZER LOGIN</button>
+    <p id="loginMessage" class="message" aria-live="polite"></p>
+  </section>
+
+  <!-- Tela Principal (Controlada pela classe hidden) -->
+  <section id="mainScreen" class="hidden">
+    <div class="section-title">FUNÇÕES DO PAINEL</div>
+    <div class="option"><span>Otimizar Mira</span><label class="switch"><input type="checkbox" id="opt-1" class="cheat-option" data-name="Otimizar Mira"><span class="track"></span></label></div>
+    <div class="option"><span>Auxiliar Mira</span><label class="switch"><input type="checkbox" id="opt-2" class="cheat-option" data-name="Auxiliar Mira"><span class="track"></span></label></div>
+    <div class="option"><span>Otimizar Telefone</span><label class="switch"><input type="checkbox" id="opt-3" class="cheat-option" data-name="Otimizar Telefone"><span class="track"></span></label></div>
+    <div class="option"><span>Calibrar a Mira</span><label class="switch"><input type="checkbox" id="opt-4" class="cheat-option" data-name="Calibrar a Mira"><span class="track"></span></label></div>
+    <div class="option"><span>ESP</span><label class="switch"><input type="checkbox" id="opt-5" class="cheat-option" data-name="ESP"><span class="track"></span></label></div>
+    <div class="option"><span>AIMBOT</span><label class="switch"><input type="checkbox" id="opt-6" class="cheat-option" data-name="AIMBOT"><span class="track"></span></label></div>
+    
+    <button id="injectBtn" type="button">INJETAR</button>
+    <p id="injectStatus" class="status" aria-live="polite"></p>
+    
+    <a class="linkbtn" id="freeFireBtn" href="intent://#Intent;scheme=freefire;package=com.dts.freefireth;end">ENTRAR NO FREE FIRE</a>
+    <button class="linkbtn discord" id="discordBtn" type="button">PAINÉIS GRÁTIS AQUI</button>
+  </section>
+
+  <div class="footer"> © APP OFICIAL • DK CHEATS ™</div>
+</main>
+
+
+
+
+</body></html>
+------MultipartBoundary--bjM4qECvOEfOTczh1JxhKVxhwSewVx70m1NwFAfMYH----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-430632f0-2baf-4dec-9f8b-7ee18a487d3f@mhtml.blink
+
+@charset "utf-8";
+
+:root { --red: #ff1a1a; --darkred: #ff4d4d; --bg: #0a0202; --panel: #140505; --muted: #d49b9b; }
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; min-height: 100vh; display: grid; place-items: center; padding: 18px; background: radial-gradient(at center top, rgb(61, 10, 10) 0%, rgb(22, 5, 5) 48%, rgb(9, 2, 2) 100%); font-family: Arial, Helvetica, sans-serif; color: rgb(255, 238, 238); }
+
+.panel { width: min(100%, 360px); padding: 23px; border: 1px solid rgba(255, 26, 26, 0.44); border-radius: 18px; background: linear-gradient(160deg, rgba(39, 14, 14, 0.96), rgba(21, 7, 7, 0.97)); box-shadow: rgba(0, 0, 0, 0.6) 0px 18px 55px, rgba(255, 26, 26, 0.094) 0px 0px 28px; }
+
+.logo { width: 54px; height: 54px; margin: 0px auto 12px; border-radius: 16px; display: grid; place-items: center; background: linear-gradient(135deg, rgb(255, 26, 26), rgb(255, 102, 102)); color: rgb(20, 3, 3); font-size: 24px; font-weight: 900; box-shadow: rgba(255, 26, 26, 0.333) 0px 0px 25px; }
+
+h1 { margin: 0px; text-align: center; font-size: 21px; letter-spacing: 2px; }
+
+.subtitle { text-align: center; color: var(--muted); font-size: 12px; margin: 7px 0px 22px; }
+
+label { display: block; font-size: 12px; color: rgb(243, 184, 184); margin: 0px 0px 8px; }
+
+input { width: 100%; padding: 13px 14px; border: 1px solid rgb(125, 36, 36); border-radius: 10px; background: rgb(21, 6, 6); color: rgb(255, 255, 255); font-size: 15px; outline: none; }
+
+input:focus { border-color: var(--darkred); box-shadow: rgba(255, 77, 77, 0.094) 0px 0px 0px 3px; }
+
+button, .linkbtn { width: 100%; display: flex; justify-content: center; align-items: center; gap: 8px; padding: 12px 14px; border: 0px; border-radius: 10px; background: linear-gradient(100deg, rgb(249, 8, 8), rgb(255, 69, 69)); color: white; font-weight: 800; font-size: 12px; letter-spacing: 0.5px; text-decoration: none; cursor: pointer; transition: 0.18s; }
+
+button:hover, .linkbtn:hover { filter: brightness(1.12); transform: translateY(-1px); }
+
+#loginBtn { margin-top: 12px; }
+
+.message { min-height: 17px; text-align: center; font-size: 12px; margin: 9px 0px 0px; color: rgb(255, 133, 133); }
+
+.hidden { display: none !important; }
+
+.section-title { font-size: 11px; letter-spacing: 1.5px; color: rgb(255, 114, 114); margin: 20px 0px 10px; }
+
+.option { display: flex; justify-content: space-between; align-items: center; padding: 12px 0px; border-bottom: 1px solid rgba(255, 255, 255, 0.07); font-size: 13px; color: rgb(255, 217, 217); }
+
+.switch { position: relative; width: 39px; height: 22px; flex-shrink: 0; }
+
+.switch input { opacity: 0; width: 0px; height: 0px; }
+
+.track { position: absolute; inset: 0px; background: rgb(88, 38, 38); border-radius: 99px; cursor: pointer; transition: 0.2s; }
+
+.track::before { content: ""; position: absolute; width: 16px; height: 16px; left: 3px; top: 3px; border-radius: 50%; background: rgb(250, 217, 217); transition: 0.2s; }
+
+.switch input:checked + .track { background: rgb(255, 26, 26); }
+
+.switch input:checked + .track::before { transform: translateX(17px); background: white; }
+
+#injectBtn { margin-top: 17px; }
+
+.status { margin: 10px 0px 0px; text-align: center; color: rgb(180, 155, 155); font-size: 12px; min-height: 16px; }
+
+.status.good { color: rgb(102, 230, 173); }
+
+.discord { margin-top: 12px; background: rgb(45, 16, 16); border: 1px solid rgb(154, 39, 39); color: rgb(255, 201, 201); }
+
+.footer { text-align: center; color: rgb(168, 102, 102); font-size: 10px; margin-top: 18px; }
+------MultipartBoundary--bjM4qECvOEfOTczh1JxhKVxhwSewVx70m1NwFAfMYH------
